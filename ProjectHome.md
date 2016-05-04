@@ -1,0 +1,1 @@
+Simple airfoil generator for NACA4, NACA5, Joukowski, and Biconvex airfoils.  Supports output of TECPLOT files or a .dat/.icem file for use in most CFD programs.
